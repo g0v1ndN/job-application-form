@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Job Application Form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="top_section">
+      <h1>
+        Job Application
+        <span class="title_small">(Web)</span>
+      </h1>
+      <p>Thank you for your interest in working with us. Please check below for available job oppurtunities <br>that meet your criteria and send your application by filling out the job application form.</p>
+    </div>
+    <div class="container">
+      <div class="apply_box">
+        <form action="">
+          <div class="form_container">
+            <div class="form_control">
+              <label for="first_name"></label>
+              <input
+                id="first_name"
+                name="first_name"
+                placeholder="First Name"
+              />
+            </div>
+            <div class="form_control">
+              <label for="last_name"></label>
+              <input
+                id="last_name"
+                name="last_name"
+                placeholder="Last Name"
+              />
+            </div>
+            <div class="form_control">
+              <label for="email"></label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Email"
+              />
+            </div>
+            <div class="form_control">
+              <label for="phone_number"></label>
+              <input
+                type="number"
+                id="number"
+                name="number"
+                placeholder="Phone Number"
+              />
+            </div>
+            <div class="form_control">
+              <label for="job_role"></label>
+              <select id="job_role" name="job_role">
+                <option value="">Select Country</option>
+                <option value="IND">India</option>
+                <option value="CHN">China</option>
+                <option value="POL">Poland</option>
+                <option value="UKR">Ukraine</option>
+                <option value="ROU">Romania</option>
+                <option value="ARG">Argentina</option>
+                <option value="BRA">Brazil</option>
+              </select>
+            </div>
+            <div class="form_control">
+              <label for="city"></label>
+              <input id="city" name="city" placeholder="City" />
+            </div>
+            <div class="form_control">
+              <label for="address"></label>
+              <input
+                id="address"
+                name="address"
+                placeholder="Address"
+              />
+              </div>
+              <div class="form_control">
+                <label for="job_role"></label>
+                <select id="job_role" name="job_role">
+                  <option value="">Choose desired position</option>
+                  <option value="frontend">Frontend Developer</option>
+                  <option value="backend">Backend Developer</option>
+                  <option value="full_stack">Full Stack Developer</option>
+                  <option value="ui_ux">UI UX Designer</option>
+                </select>
+              </div>
+            <div class="textarea_control">
+              <label for="additional_info"></label>
+              <textarea
+                id="additional_info"
+                name="additional_info"
+                placeholder="Additional Info"
+              ></textarea>
+            </div>
+            <div class="form_control">
+              <label for="upload"> Add your CV </label>
+              <input 
+               type="file"
+               id="upload"
+               name="upload"
+               />
+            </div>
+          </div>
+          <div class="button_container">
+            <button type="submit">Apply Now</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
