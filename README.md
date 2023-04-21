@@ -3,7 +3,7 @@
 ## About:
 Welcome to my basic job application form, which I created using HTML and CSS to gain a better understanding of these languages. As a beginner in web development, I am eager to learn and improve my skills. Through building this form, I have delved into the basics of HTML and CSS and learned how they can be used to create a simple yet functional job application form.
 
-## How to use:
+## Usage Instructions:
 
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
@@ -22,3 +22,6 @@ Welcome to my basic job application form, which I created using HTML and CSS to 
 
 ## Screenshots:
 <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Job-Application-Form/blob/main/images/Screenshot%2001.png" alt="Screenshot"/>
+
+## MIT License: 
+Hello! If you're interested in using my code, I'm happy to share it with you under the MIT License. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
