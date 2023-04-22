@@ -3,6 +3,18 @@
 ## About:
 Welcome to my basic job application form, which I created using HTML and CSS to gain a better understanding of these languages. As a beginner in web development, I am eager to learn and improve my skills. Through building this form, I have delved into the basics of HTML and CSS and learned how they can be used to create a simple yet functional job application form.
 
+## Features:
+1. The webpage is an HTML form used for job applications for web development.
+2. The webpage has a title, "Job Application Form" and a stylesheet link to the CSS file.
+3. The form is divided into two sections, the top section with the title and introductory paragraph and the container section with the form.
+4. The webpage is styled with CSS, including background color, font size, margin, padding, border radius, box shadow, and more.
+5. The form contains various input fields for the candidate's name, email, phone number, country, city, address, desired position, additional information, and a file upload field for the candidate's CV.
+6. The form has a submit button with the text "Apply Now."
+7. The form has labels for each input field to provide clear instructions to the candidate.
+8. The form has CSS classes that control the layout and styling of the input fields, labels, and buttons.
+9. The form uses a grid layout for the input fields, allowing for a responsive design that adapts to the size of the screen.
+10. The form has some input fields with specific input types, such as email and number fields.
+
 ## Usage Instructions:
 
 ### Downloading or Cloning the Repository:
