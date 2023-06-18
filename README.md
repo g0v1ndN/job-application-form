@@ -1,4 +1,8 @@
 # Job-Application-Form
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Welcome to my basic job application form, which I created using HTML and CSS to gain a better understanding of these languages. As a beginner in web development, I am eager to learn and improve my skills. Through building this form, I have delved into the basics of HTML and CSS and learned how they can be used to create a simple yet functional job application form.
