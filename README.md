@@ -1,7 +1,7 @@
 # job-application-form
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg" alt="open-source"/>
+      <img src="https://img.shields.io/badge/Open%20Source-%2328a745" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
@@ -18,7 +18,6 @@
 Welcome to my basic job application form, which I created using HTML and CSS to gain a better understanding of these languages. As a beginner in web development, I am eager to learn and improve my skills. Through building this form, I have delved into the basics of HTML and CSS and learned how they can be used to create a simple yet functional job application form.
 
 ## Features:
-Here are a few features of this webpage.
 1. The webpage is an HTML form used for job applications for web development.
 2. The form is divided into two sections, the top section with the title and introductory paragraph and the container section with the form.
 3. The webpage is styled with CSS, including background color, font size, margin, padding, border radius, box shadow, and more.
@@ -48,17 +47,6 @@ Here are a few features of this webpage.
 
 ## Screenshots:
 <img src="https://github.com/g0v1ndN/job-application-form/blob/main/images/Screenshot%2001.png" alt="Screenshot"/>
-
-## External Resources:
-
-### Badges
-This README includes an SVG badge from an external source, which is licensed under the Creative Commons Attribution (CC-BY) License.
-
-- **Badge Name:** Open Source v1 
-- **Author:** Maik Ellerbrock
-- **License:** CC-BY-4.0 License
-
-The Creative Commons Attribution (CC-BY) License is an open-source license that permits usage, modification, and distribution of the content, provided you attribute the original creator. The full text of the CC-BY License can be found in the <a href="https://github.com/ellerbrock/open-source-badges/blob/master/LICENCE">LICENSE</a> file provided by the external source.
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/job-application-form/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
