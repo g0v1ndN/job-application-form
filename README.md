@@ -29,6 +29,11 @@ Welcome to my basic job application form, which I created using HTML and CSS to 
 
 ## Usage Instructions:
 
+### Prerequisites:
+- Basic HTML and CSS Knowledge: Familiarity with HTML and CSS concepts is essential for understanding the structure and styling of the project.
+- Text Editor or Integrated Development Environment (IDE): You'll need a code editor to make changes to the project files. Popular choices include Visual Studio Code, Sublime Text, or Atom.
+- Web Browser: You'll need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge) to view and test your changes.
+
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
 2. Click on "Download ZIP" to download a compressed zip file of the repository.
