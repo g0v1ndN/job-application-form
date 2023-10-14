@@ -43,7 +43,8 @@ Welcome to my basic job application form, which I created using HTML and CSS to 
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command `git clone https://github.com/g0v1ndN/job-application-form` to clone the repository to your local machine.
-<p><b>Note:</b> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the official website (https://git-scm.com).</p>
+> [!NOTE]
+> You need to have Git installed on your computer. If you don't have it installed, please download and install Git from the [official website](https://git-scm.com).
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
