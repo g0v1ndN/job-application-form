@@ -54,5 +54,5 @@ Welcome to my basic job application form, which I created using HTML and CSS to 
 ## Screenshots:
 <img src="https://github.com/g0v1ndN/job-application-form/blob/main/images/Screenshot%2001.png" alt="Screenshot"/>
 
-## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/job-application-form/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+## License: 
+This project is licensed under the terms & conditions (T&Cs) of the MIT license. If you're interested in reading more about it, please take a look at the <a href="https://github.com/g0v1ndN/job-application-form/blob/main/LICENSE">LICENSE</a> document.
