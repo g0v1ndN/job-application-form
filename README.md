@@ -15,7 +15,7 @@
 </div>
 
 ## About:
-Welcome to my basic job application form, which I created using HTML and CSS to gain a better understanding of these languages. As a beginner in web development, I am eager to learn and improve my skills. Through building this form, I have delved into the basics of HTML and CSS and learned how they can be used to create a simple yet functional job application form.
+This project is a basic job application form built using HTML and CSS. It demonstrates the use of these languages for creating a simple and functional web form.
 
 ## Features:
 1. The webpage is an HTML form used for job applications for web development.
